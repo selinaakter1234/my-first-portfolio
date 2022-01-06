@@ -1,0 +1,116 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin:0 auto;
+}
+.top-banner{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+   
+}
+.left-side{
+    padding-top: 60px;
+}
+h1{
+    font-size:50px;;
+}
+.orange-color{
+    color: rgb(241, 170, 37);
+}
+.border{
+    border-left:5px solid rgb(247, 89, 89);  
+    margin-right: 10px;
+
+}
+.box{
+    margin-left: 10px;
+}
+p{
+    color: rgb(105, 104, 104);
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(243, 143, 103), #a71b02);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+
+}
+
+
+.half-width img{
+    width: 80%;
+
+}
+
+/* development area */
+
+.mission-area{
+    margin-top: 80px;
+}
+
+.mission-area h2{
+   
+    font-size: 50px;
+    text-align: center;
+}
+.onethird {
+    display: flex;
+    padding: 20px 60px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.one-third{
+width: 30%;
+box-shadow: 5px 7px 40px gray;
+height:80%
+}
+.one-third img{
+    width: 50%;
+    
+
+}
+
+/* <!-- Develop  area  --> */
+.Develop-area{
+   display: flex;
+   padding: 30px 70px;
+}
+
+.half-width-img{
+    width: 30%;
+}
+
+.half-width-img img{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.half-width-dev{
+    width:70%;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width-dev h2{
+    font-size: 50px;
+}
+/* global area */
+.top-global{
+    display: flex;
+}
+
+
+
+/* own sectoin */
+.contact{
+    display: flex;
+    margin-top: 40px;
+}
